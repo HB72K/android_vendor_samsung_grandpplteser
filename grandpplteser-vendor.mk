@@ -1,1 +1,1 @@
-$(call inherit-product, vendor/samsung/grandpplteser/grandpplteser-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/grandpplte/grandpplte-vendor-blobs.mk)
