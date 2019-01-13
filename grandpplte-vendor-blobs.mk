@@ -1,0 +1,6 @@
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/samsung/grandpplte/proprietary/system/lib,system/lib)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/samsung/grandpplte/proprietary/system/lib64,system/lib64)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/samsung/grandpplte/proprietary/system/bin,system/bin)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/samsung/grandpplte/proprietary/system/etc,system/etc)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/samsung/grandpplte/proprietary/system/usr,system/usr)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/samsung/grandpplte/proprietary/system/vendor,system/vendor)
